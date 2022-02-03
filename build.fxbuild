@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://org.eclipse.fx.ide.jdt/1.0" buildDirectory="${project}/build">
+  <deploy>
+<<<<<<< HEAD
+    <application name="workshop-javafx-jdbc"/>
+=======
+    <application name="workshop"/>
+>>>>>>> e26d9367cc21cafa30cab06646b0e01770a11cc8
+    <info/>
+  </deploy>
+  <signjar/>
+</anttasks:AntTask>
